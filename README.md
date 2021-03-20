@@ -1,3 +1,3 @@
 ## Installation
 
-This is a very simple script. I used regulary to clean my PC.
+This is a very simple script. I use it regulary to clean my UX PC.
