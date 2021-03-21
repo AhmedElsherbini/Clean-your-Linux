@@ -1,6 +1,6 @@
 ## Installation
 
-This is a very simple script. I made ir regulary to clean my UX OS PC.
+This is a very simple script. I made it to regulary clean my UX OS PC.
 
 Just type 
 
