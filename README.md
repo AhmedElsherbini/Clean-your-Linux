@@ -1,9 +1,12 @@
 ## Installation
 
-This is a very simple script. I made it to regulary clean my UX OS.
+This is a straightforward script. I use it to regularly to clean my UX-based OS.
 
-Just type 
+Based on a collections of tips from the internet.
 
+Just type in the terminal,
+
+```Bash
+sudo bash clean.sh
 ```
-$ sudo bash clean.sh
-```
+
